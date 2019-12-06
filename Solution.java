@@ -27,7 +27,7 @@ class Book
 
 }
 
-public class sol
+public class Solution
 {
     public static void main(String[] args) 
     {
